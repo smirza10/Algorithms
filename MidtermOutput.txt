@@ -1,0 +1,17 @@
+ 
+  ----jGRASP exec: java MidtermPractice
+ Longest common string length in alksdjhaksj and ajsdhjkasd : 6
+ Longest common string length in alksdjhaksj and ajsdhjkasd using recursive : 6
+ racecar is a palindrome: true
+ racecars is a palindrome: false
+ Array before quicksort: 1 4 6 3 2 5 7 9 8
+ Array after quicksort: 1 2 3 4 5 6 7 8 9
+ Array before mergesort: 1 4 6 3 2 5 7 9 8
+ array after mergesort: 1 2 3 4 5 6 7 8 9
+ Maxmium value of knapsack with weight of 6: 13
+ Binomial coefficient of 6, 4 is: 15
+ current array: 1 9 10 13 17 18 22 25 35 40 45
+ Does array contain 35: true
+ 
+  ----jGRASP: operation complete.
+ 
